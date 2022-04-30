@@ -1,0 +1,581 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'de' Physical Memory: 32710 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/leonv/Documents/GitHub/VR---AR/ex02
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53811
+Successfully changed project path to: C:/Users/leonv/Documents/GitHub/VR---AR/ex02
+C:/Users/leonv/Documents/GitHub/VR---AR/ex02
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/leonv/Documents/GitHub/VR---AR/ex02/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   
+    VRAM:     6097 MB
+    Driver:   30.0.15.1215
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002917 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 21.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000892 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.310300 ms (FindLiveObjects: 0.104900 ms CreateObjectMapping: 0.030800 ms MarkObjects: 1.114300 ms  DeleteObjects: 0.059400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+========================================================================
+Received Import Request.
+  path: Assets/Catgear Games
+  artifactKey: Guid(f5ec52c04e1102d46a45768e7de4fe80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games using Guid(f5ec52c04e1102d46a45768e7de4fe80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdaa41a94e24be004f4637414749f5eb') in 0.005429 seconds
+  Import took 0.006990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Catgear Games/Model Pack 1
+  artifactKey: Guid(f74e857068ce30c4ea1ce94ec4485361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1 using Guid(f74e857068ce30c4ea1ce94ec4485361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87067c7fb9ee02d7ae72d51d8d73f45a') in 0.002604 seconds
+  Import took 0.004391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.179810 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili
+  artifactKey: Guid(92059e520cd224dcbbe7a80843775c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili using Guid(92059e520cd224dcbbe7a80843775c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c1f0a7f15783e98cbd2aa2e220d5c7') in 0.005534 seconds
+  Import took 0.008564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068739 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/01_Chili_Attack.fbx
+  artifactKey: Guid(f494513d99f194dbf91c449ca35c98c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/01_Chili_Attack.fbx using Guid(f494513d99f194dbf91c449ca35c98c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8737db38bd6d8a1e02a93464575939b') in 0.612102 seconds
+  Import took 0.616399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/02_Chili_Walk_Jump.fbx
+  artifactKey: Guid(10035762d400d492eb0005ef9a2f8893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/02_Chili_Walk_Jump.fbx using Guid(10035762d400d492eb0005ef9a2f8893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9e7b811762d4704f44a3a89495d079') in 0.020955 seconds
+  Import took 0.022855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/04_Chili_Damaged.fbx
+  artifactKey: Guid(ae19d7808f4e04ced914150e0658b480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/04_Chili_Damaged.fbx using Guid(ae19d7808f4e04ced914150e0658b480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441f68b655339273a8aafe1efa053616') in 0.020700 seconds
+  Import took 0.022596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/03_Chili_Walk_2 .fbx
+  artifactKey: Guid(60c165d3a75334f0da44e4483cf1b7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/03_Chili_Walk_2 .fbx using Guid(60c165d3a75334f0da44e4483cf1b7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329083fb27300bb0355a1f32b3cf836f') in 0.025506 seconds
+  Import took 0.027725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/06_Chili_Death  .fbx
+  artifactKey: Guid(e53bf424286244bab84ee3497da85705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/06_Chili_Death  .fbx using Guid(e53bf424286244bab84ee3497da85705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe01c88aafa5fc7e9a88be2a0e521b6f') in 0.024598 seconds
+  Import took 0.026964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/Chili_diffuse_new.jpg
+  artifactKey: Guid(f39a3487a492f4a2ba0c880bb03e2dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/Chili_diffuse_new.jpg using Guid(f39a3487a492f4a2ba0c880bb03e2dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebaa71ce96a8db360dec7ee0218ebd7e') in 0.041851 seconds
+  Import took 0.043509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/05_Chil_Idle .fbx
+  artifactKey: Guid(e5c60cd14be874043a2a90ab05f01640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/05_Chil_Idle .fbx using Guid(e5c60cd14be874043a2a90ab05f01640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf47b300122948b6e8c226527dcd1c15') in 0.025632 seconds
+  Import took 0.028015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.418849 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/Chili.controller
+  artifactKey: Guid(cc7561486c4834288bd4aaeefd443dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/Chili.controller using Guid(cc7561486c4834288bd4aaeefd443dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d5f45858aa3b739822b759b6b42a25') in 0.009554 seconds
+  Import took 0.011433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.498128 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/README.txt
+  artifactKey: Guid(3df05b45835b04826a1306012f0746d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/README.txt using Guid(3df05b45835b04826a1306012f0746d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e79c2967077b3eb0f214089ef927bd') in 0.005893 seconds
+  Import took 0.007605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005762 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/README.txt
+  artifactKey: Guid(3df05b45835b04826a1306012f0746d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/README.txt using Guid(3df05b45835b04826a1306012f0746d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e79c2967077b3eb0f214089ef927bd') in 0.002359 seconds
+  Import took 0.004065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.332415 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Kiwi
+  artifactKey: Guid(0e1aca17dc0fc45fa97b5cd2d3978f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Kiwi using Guid(0e1aca17dc0fc45fa97b5cd2d3978f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea7c94c957441336b54df1dff8ef8ad') in 0.003373 seconds
+  Import took 0.004976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.423982 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Langsat
+  artifactKey: Guid(b94661960d38a442581be05b66bebcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Langsat using Guid(b94661960d38a442581be05b66bebcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83590064ce6ab1cafea9b47a4773ffa9') in 0.003499 seconds
+  Import took 0.005045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.976881 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/Materials
+  artifactKey: Guid(ea606bd7551ad4c3f8da02e0feb3ab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/Materials using Guid(ea606bd7551ad4c3f8da02e0feb3ab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ad9d9155f07fa2941d9db2cbbbebc6') in 0.002043 seconds
+  Import took 0.003911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069929 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/Materials/Chili_diffuse_new.mat
+  artifactKey: Guid(7ab30638ee11d4a33ae4f8c0f4534107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/Materials/Chili_diffuse_new.mat using Guid(7ab30638ee11d4a33ae4f8c0f4534107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ef87f821b49374b8589ae7fb3b51fa') in 0.033502 seconds
+  Import took 0.035224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002544 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/Materials/Chili_diffuse_new.mat
+  artifactKey: Guid(7ab30638ee11d4a33ae4f8c0f4534107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/Materials/Chili_diffuse_new.mat using Guid(7ab30638ee11d4a33ae4f8c0f4534107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ef87f821b49374b8589ae7fb3b51fa') in 0.007213 seconds
+  Import took 0.009071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.707802 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/03_Chili_Walk_2 .fbm
+  artifactKey: Guid(ea79c451dd73d4181a66c75fa063b84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/03_Chili_Walk_2 .fbm using Guid(ea79c451dd73d4181a66c75fa063b84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31489bfb1deb2d9be730c312ee9f467b') in 0.002482 seconds
+  Import took 0.003991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001457 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/03_Chili_Walk_2 .fbm
+  artifactKey: Guid(ea79c451dd73d4181a66c75fa063b84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/03_Chili_Walk_2 .fbm using Guid(ea79c451dd73d4181a66c75fa063b84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31489bfb1deb2d9be730c312ee9f467b') in 0.001708 seconds
+  Import took 0.003257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.481069 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/02_Chili_Walk_Jump.fbm
+  artifactKey: Guid(21f0f70e360dc48b79f1b75381c88d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/02_Chili_Walk_Jump.fbm using Guid(21f0f70e360dc48b79f1b75381c88d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf7fd5b250a705c1609ac9f8d5b01375') in 0.003420 seconds
+  Import took 0.005292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.958678 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Chili/01_Chili_Attack.fbm
+  artifactKey: Guid(d16dfc0f8806e4e649d0635e8879762f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Chili/01_Chili_Attack.fbm using Guid(d16dfc0f8806e4e649d0635e8879762f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee1dc902d89c6adb0679bb92a163b07') in 0.002788 seconds
+  Import took 0.004705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.397795 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Scene 1.unity
+  artifactKey: Guid(b78ea0a9b77224542bc7de186598ba53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Scene 1.unity using Guid(b78ea0a9b77224542bc7de186598ba53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed667fefb67de4230b2661d30a133fd') in 0.005558 seconds
+  Import took 0.007271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.260970 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Eggy
+  artifactKey: Guid(3f5fb24fc23194e86b226c23dc50d4c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Eggy using Guid(3f5fb24fc23194e86b226c23dc50d4c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8539e9cb7bef03eb628d2069dd053db0') in 0.002246 seconds
+  Import took 0.004105 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.690 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1606.
+Total: 1.360600 ms (FindLiveObjects: 0.100600 ms CreateObjectMapping: 0.027900 ms MarkObjects: 1.192900 ms  DeleteObjects: 0.038200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+========================================================================
+Received Import Request.
+  Time since last request: 113.880381 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Langsat/01_Langsat_Walk .fbx
+  artifactKey: Guid(2d53cfb1f51104109841f2863b9d11e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Langsat/01_Langsat_Walk .fbx using Guid(2d53cfb1f51104109841f2863b9d11e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a11029c9d80387fc36094cadcb771fa8') in 0.092875 seconds
+  Import took 0.095018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Langsat/05_Langsat_Death .fbx
+  artifactKey: Guid(90f08a684034f4dc6b29be7313b3110e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Langsat/05_Langsat_Death .fbx using Guid(90f08a684034f4dc6b29be7313b3110e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6540ea16d6ce2845b7bd60098217da2a') in 0.042601 seconds
+  Import took 0.044232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Langsat/Langsat_diffuse_new.jpg
+  artifactKey: Guid(9057bfa5e59b04170a13915cc855aa93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Langsat/Langsat_diffuse_new.jpg using Guid(9057bfa5e59b04170a13915cc855aa93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8727729438997f538c93ad7380b76bdd') in 0.013925 seconds
+  Import took 0.015389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Langsat/04_Langsat_Idle.fbx
+  artifactKey: Guid(fd3ed1d29d9da4d6c83f004cbebe2214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Langsat/04_Langsat_Idle.fbx using Guid(fd3ed1d29d9da4d6c83f004cbebe2214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12ff0d7c4b59bc68b2918f2c15ee9f4') in 0.044621 seconds
+  Import took 0.046292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Langsat/02_Langsat_Attack.fbx
+  artifactKey: Guid(e84e301c290664629899e09353ee57b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Langsat/02_Langsat_Attack.fbx using Guid(e84e301c290664629899e09353ee57b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c451270d1e3246523d87b1ff4fc8496c') in 0.042353 seconds
+  Import took 0.044193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Catgear Games/Model Pack 1/Langsat/03_Langsat_Damaged .fbx
+  artifactKey: Guid(e733a78acebb5420497e734f1b685683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Catgear Games/Model Pack 1/Langsat/03_Langsat_Damaged .fbx using Guid(e733a78acebb5420497e734f1b685683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c308320a67fabdfac89f0fa2d7fecd') in 0.039045 seconds
+  Import took 0.040808 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.745 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 1.343900 ms (FindLiveObjects: 0.105800 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.166400 ms  DeleteObjects: 0.043000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012179 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 3 plugins.
+Preloading 2 native plugins for Editor in 3.87 ms.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
+Platform modules already initialized, skipping
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatNoGeom' not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 3 plugins.
+Preloading 2 native plugins for Editor in 0.13 ms.
+Unloading 1161 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.8 MB.
+System memory in use after: 77.8 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 1954.
+Total: 2.140000 ms (FindLiveObjects: 0.124100 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.322100 ms  DeleteObjects: 0.658500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010354 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 3 plugins.
+Preloading 2 native plugins for Editor in 0.14 ms.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.811 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 3 plugins.
+Preloading 2 native plugins for Editor in 0.12 ms.
+Unloading 1437 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 86.0 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2235.
+Total: 2.196000 ms (FindLiveObjects: 0.161000 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.368000 ms  DeleteObjects: 0.621300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 2 native plugins for Editor in 0.17 ms.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 2 native plugins for Editor in 0.18 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 2.189400 ms (FindLiveObjects: 0.167200 ms CreateObjectMapping: 0.060800 ms MarkObjects: 1.268100 ms  DeleteObjects: 0.692600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009198 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.45 ms, found 3 plugins.
+Preloading 2 native plugins for Editor in 0.14 ms.
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <486525dc6e7f47ceb1055ca2da800b93>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 2 native plugins for Editor in 0.13 ms.
+Unloading 1541 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 2.307900 ms (FindLiveObjects: 0.186100 ms CreateObjectMapping: 0.065700 ms MarkObjects: 1.365800 ms  DeleteObjects: 0.689500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  requireTextureImportCompression: false -> true
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
